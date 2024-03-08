@@ -28,7 +28,7 @@
  .decoration {
     border-bottom:solid 3px rgb(115, 115, 114);
  }
- .child {font-weight: bold;
- }
+ #parent > p {font-weight: bold;
+ } 
  
 
