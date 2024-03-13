@@ -13,11 +13,11 @@
   .google-fonts {
     font-family: "Josefin Sans", sans-serif;
   }
-  html {
+  html { 
     font-size: 20px;
   }
   h1 {
-    font-size: 2em;
+    font-size: 2rem;
   }
   .decoration {
     letter-spacing: 1.2em;
@@ -30,5 +30,6 @@
  }
  #parent > p {font-weight: bold;
  } 
+
  
 
