@@ -507,17 +507,15 @@ ul {
   justify-content: space-between;
 }
 
-ul li {
+ li {
   flex-basis: 33%;
   margin: 20px;
 }
 
-ul li {
-  width: 33%;
-  margin: 20px;
+.case-card {
   background-color: #ffffff;
   min-height: 400px;
-  box-shadow: 5px 5px 15px 0.5px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
 }
 
 .case-img {
